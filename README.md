@@ -9,6 +9,8 @@
 
 - ### here are my projects
 - [basic Express App with CRUD operation](http://git@github.com:25sonu/expressApplevel4.git)
+- [basic practice Express operation](http://git@github.com:25sonu/expressApplevel7.git)
+- [basic react App passwordvalidator](http://git@github.com:25sonu/reactProject.git)
 
 25sonu/25sonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
