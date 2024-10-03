@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @25sonu
 - 👀 I’m interested in web develpoment
-- 📫 How to reach me pratibhajena288@gmail.com
+- 📫 To reach me pratibhajena288@gmail.com
 
 
 
